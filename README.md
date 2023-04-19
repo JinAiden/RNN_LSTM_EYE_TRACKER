@@ -1,6 +1,7 @@
 # Modelling Eye Tracker Data with LSTM and Linear Connected Layer
 
 This repository is mainly about using LSTM mechanism and lineare connected layer to model the Eye Tracker Data set which could be downloaded [here](https://www.nature.com/articles/s41597-022-01862-w#).
+After downloaded the data set, put the data set under the current folder called `dataset`.
 
 ## Table of Contents
 
